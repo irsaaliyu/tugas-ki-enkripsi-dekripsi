@@ -39,7 +39,7 @@ const Enkripsi = () => {
     <div className='container h-full flex justify-center items-center lg:mt-[200px] sm:mt-[150px] mt-[100px] flex-col'>
       <div className='border-2 border-blue-400 lg:px-20 lg:py-12 px-8 py-6 rounded-[70px] lg:w-[1050px]'>
         <p className='text-black lg:text-2xl text-xs md:text-base text-justify'>
-          "“Aplikasi Enkripsi-Dekripsi Algoritma AES hadir untuk memberikan pengguna kemudahan dalam mengamankan dan memulihkan pesan teks dengan keamanan tinggi menggunakan algoritma Advanced Encryption Standard (AES). Dengan fitur memasukkan teks dan memilih kunci, pengguna dapat melihat hasil enkripsi (ciphertext) dan dekripsi (plaintext) secara langsung.”"
+          "Aplikasi Enkripsi-Dekripsi Algoritma AES hadir untuk memberikan pengguna kemudahan dalam mengamankan dan memulihkan pesan teks dengan keamanan tinggi menggunakan algoritma Advanced Encryption Standard (AES). Dengan fitur memasukkan teks dan memilih kunci, pengguna dapat melihat hasil enkripsi (ciphertext) dan dekripsi (plaintext) secara langsung."
         </p>
       </div>
       <div className='lg:mt-14 my-4'>
