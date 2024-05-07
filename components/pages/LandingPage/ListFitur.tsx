@@ -58,7 +58,7 @@ const ListFitur = () => {
           <h1 className="text-[#3299db] text-md lg:text-4xl sm:text-3xl font-bold">3</h1>
           <div className="flex flex-col lg:gap-10 lg:mt-10 mt-4 lg:ml-0 ml-2 w-[100px] lg:w-auto">
             <h1 className="lg:text-3xl text-sm sm:text-2xl font-medium">Tekan enkripsi dan dekripsi</h1>
-            <p className="lg:text-2xl text-xs sm:text-xl">Klik tombol Submit untuk memproses pesan teks dengan menggunakan algoritma RC4. Setelah proses selesai, hasil enkripsi atau dekripsi akan ditampilkan dilayar.</p>
+            <p className="lg:text-2xl text-xs sm:text-xl"> Klik tombol Submit untuk memproses pesan teks dengan menggunakan algoritma AES. Setelah proses selesai, hasil enkripsi atau dekripsi akan ditampilkan pada layar. </p> 
           </div>
         </div>
       </div>

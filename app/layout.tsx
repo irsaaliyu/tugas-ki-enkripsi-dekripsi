@@ -7,7 +7,7 @@ import Footer from '@/components/layouts/Footer'
 const poppins = Poppins({ subsets: ['latin'], weight: ['100','200', '300', '400', '500', '600', '700', '800', '900'] })
 
 export const metadata: Metadata = {
-  title: 'Enkripsi Data Algoritma RC4',
+  title: 'Enkripsi Data Algoritma AES',
   description: 'Mengenkripsi data anda dengan keamanan kriptografi modern',
 }
 
